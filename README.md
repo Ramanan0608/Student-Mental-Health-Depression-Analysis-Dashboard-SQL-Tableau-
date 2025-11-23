@@ -1,6 +1,5 @@
-Student Mental Health & Depression Analysis Dashboard (SQL & Tableau)
-Resume-Ready Project Description
-Problem Statement
+****Student Mental Health & Depression Analysis Dashboard (SQL & Tableau)
+Dashboard Link: https://prod-in-a.online.tableau.com/t/ramanankkl-41602ffee8/views/StudentCountAnalysis/StudentCountAnalysis*****
 
 The goal of this project is to analyze student mental health indicators such as academic pressure, sleep duration, dietary habits, financial stress, and depression levels. By visualizing these factors, institutions can understand risk patterns, identify high-impact stressors, and take steps to support student well-being.
 
